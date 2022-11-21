@@ -22,3 +22,5 @@ Now that I think about it, there should be something on the screen even when the
 ### Highlights
 
 The highlight of development came near the end when I clicked the addProject button a few times and the app created about 35 list items and everytime I pressed a key the ScrollView jumped around randomly. There were also 37 warnings saying there were elements with the same key. I'm not sure exactly why so many items were created, but incrementing the updates variable used to determine their keys fixed that, while setting autofocus to true only for the last item in the list fixed the typing issue.
+
+https://user-images.githubusercontent.com/41521108/202937555-704610eb-f7b2-4c6d-865d-5768426d21c6.mov
